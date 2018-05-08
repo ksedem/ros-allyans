@@ -1,0 +1,30 @@
+<div class="row">
+		<div class="col-sm-12">
+			<p id="slogan">Хороший слоган будет тут.</p>
+			<p id="text_desc">Химические реагенты для нефтегазодобывающих предприятий.</p>
+		</div>
+	</div>	
+	<div class="row">
+		
+		<div class="col-sm-6" style="margin-top:8%; padding-left:33%; padding-right:0%; margin-right:0%">
+			<div id="hexagon">
+			</div>
+			<div id="hexagon_ins">
+				<p id="text_blocks">Химические реагенты для водных растворов</p>
+			</div>
+		</div>
+		<div class="col-sm-3" style="margin-top:16%">
+			<div id="hexagon_2">
+			</div>
+			<div id="hexagon_ins_2">
+				<p id="text_blocks" style="padding-top:15%">Химические реагенты для растворов на углеводородной основе</p>
+			</div>
+		</div>
+		<div class="col-sm-3" style="margin-top:10%">
+			<div id="hexagon_3">
+			</div>
+			<div id="hexagon_ins_3">
+				<p id="text_blocks" style="padding-top:12%">Утяжелители для бурения и глушения скважин</p>
+			</div>
+		</div>
+	</div>
