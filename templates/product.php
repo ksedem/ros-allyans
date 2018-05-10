@@ -28,8 +28,12 @@
 	<div class="row">
 		<div class="col-sm-12">
 			<div id="choice">
-				<a href="index.php?page=product" id="var_choice_1">Группы</a>
-				<a href="index.php?page=product_list" id="var_choice_2">Список</a>
+				<div class="var_choice">
+					<a href="index.php?page=product" id="var_choice_a">Группы</a>
+				</div>
+				<div class="var_choice">
+					<a href="index.php?page=product_list" id="var_choice_a">Список</a>
+				</div>	
 			</div>
 		</div>
 	</div>
