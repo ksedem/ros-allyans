@@ -149,41 +149,11 @@
 		<p class="pr_details_text">Обычно поставляется в многослойных бумажных мешках весом 25 кг.</p>
 	</div>
 	<div class="row">
-		<div class="col-sm-4" style="padding-top:9%; padding-left:5%">
-			
-			<div id="hexagon_pr">
-			</div>
-			<div id="hexagon_ins_pr">
-				<p class="text_blocks">Утяжелители для бурения и глушения скважин</p>
-				<div id="positions">
-					<ul class="list_products">
-						<li class="item" id="barit_li">Барит</li>
-						<li class="item" id="microcalcit_li">Микрокальцит</li>
-					</ul>	
-				</div>	
-			</div>
-		</div>
-		<div class="col-sm-4" style="padding-top:17%; padding-left:1%">
-			<div id="hexagon_2_pr">
-			</div>
-			<div id="hexagon_ins_2_pr">
-				<p class="text_blocks" style="padding-top:15%">Химические реагенты для растворов на углеводородной основе</p>
-				<div id="positions_2">
-					<ul class="list_products">
-						<li class="item" id="glina_li">Органофильная глина</li>
-						<li class="item" id="izvest2_li">Известь гидратная</li>
-						<li class="item" id="natr_edk2_li">Натрий едкий гранулированный</li>
-					</ul>	
-				</div>	
-			</div>
-		</div>
-		<div class="col-sm-4" style="padding-top:4%; padding-left:3%; margin-bottom:30%">
-			<div id="hexagon_3_pr">
-			</div>
-			<div id="hexagon_ins_3_pr">
-				<p class="text_blocks" style="padding-top:12%">Химические реагенты для водных растворов</p>
-				<div id="positions_3">
-					<ul class="list_products">
+
+	<div class="grid-container">
+		<div class="item1">Химические реагенты для водных растворов</div>
+		<div class="item2">
+			<ul class="list_products">
 						<li class="item" id="krakhmal_li">Модифицированный крахмал</li>
 						<li class="item" id="ksantan_li">Ксантановая камедь</li>
 						<li class="item" id="celluloza_li">Полианионная целлюлоза</li>
@@ -196,9 +166,37 @@
 						<li class="item" id="bik_natr_li">Бикарбонат натрия</li>
 						<li class="item" id="natr_edk_li">Натрий едкий гранулированный</li>
 					</ul>	
-				</div>	
-			</div>
+		</div>
+		<div class="item3">
+			<img src="images/kaliy.jpeg" alt="kaliy" style="height:400px; width:200px; max-width:100%;">
+		</div>
+		<div class="item4">
+			<img src="images/izvest.png" alt="izvest'" style="width:360px; height:185px ">
+		</div>
+		<div class="item5">
+			<ul class="list_products">
+						<li class="item" id="glina_li">Органофильная глина</li>
+						<li class="item" id="izvest2_li">Известь гидратная</li>
+						<li class="item" id="natr_edk2_li">Натрий едкий гранулированный</li>
+					</ul>	
+		</div>
+		<div class="item6">
+			<div id="item6_ins">Химические реагенты для растворов на углеводородной основе</div>
+		</div>
+		<div class="item7">Утяжелители для бурения и глушения скважин</div>
+		<div class="item8">
+			
+					<ul class="list_products">
+						<li class="item" id="barit_li">Барит</li>
+						<li class="item" id="microcalcit_li">Микрокальцит</li>
+					</ul>	
+				
+		</div>
+		<div class="item9">
+			<img src="images/calcit.jpg" alt="calcit" style="height:315px; width:250px">
 		</div>
 	</div>
+
+
 </div>
 
