@@ -1194,8 +1194,7 @@
 			font-weight: bold;
 			text-shadow: 1px 1px #231D1D;
 			vertical-align: middle;
-			height: 100px;
-			line-height: 100px;
+			position: relative;
 		}
 		.item2 {
 			grid-area: 2 / 1 / 4 / 3;

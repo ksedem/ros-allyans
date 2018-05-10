@@ -151,7 +151,9 @@
 	<div class="row">
 
 	<div class="grid-container">
-		<div class="item1">Химические реагенты для водных растворов</div>
+		<div class="item1">
+			<div id="item6_ins">Химические реагенты для водных растворов</div>
+		</div>	
 		<div class="item2">
 			<ul class="list_products">
 						<li class="item" id="krakhmal_li">Модифицированный крахмал</li>
